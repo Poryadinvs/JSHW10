@@ -1,0 +1,10 @@
+.question,
+.result-container{
+    display: none;
+}
+.questions{
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+}
